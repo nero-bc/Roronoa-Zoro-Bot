@@ -13,11 +13,11 @@ An Open Source Rename Telegram RoBot
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/dakshkohli23/Roronoa-Zoro-Bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/nero-bc/Roronoa-Zoro-Bot)
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/dakshkohli23/Roronoa-Zoro-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/nero-bc/Roronoa-Zoro-Bot)
 
 
 #### The Hard Way
