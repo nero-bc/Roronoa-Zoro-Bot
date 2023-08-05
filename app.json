@@ -10,7 +10,7 @@
   ],
   "success_url": "https://t.me/Cartoon_Seriesz",
   "website": "https://github.com/dakshkohli23",
-  "repository": "https://github.com/dakshkohli23/Roronoa-Zoro-Bot",
+  "repository": "https://github.com/nero-bc/Roronoa-Zoro-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
